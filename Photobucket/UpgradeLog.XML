@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VB Photo Editor">
+</Property><Property Name="Solution File" Value="C:\Users\Vijay\Downloads\Compressed\New folder\VB Photo Editor\VB Photo Editor.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Vijay\Downloads\Compressed\New folder\VB Photo Editor\VB Photo Editor.suo">
+</Property><Property Name="Date" Value="Saturday, March 08, 2014">
+</Property><Property Name="Time" Value="11:25 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="VB Photo Editor.sln" Description="File successfully backed up as C:\Users\Vijay\Downloads\Compressed\New folder\VB Photo Editor\Backup\VB Photo Editor.sln">
+</Event><Event ErrorLevel="0" Project="" Source="VB Photo Editor.suo" Description="File successfully backed up as C:\Users\Vijay\Downloads\Compressed\New folder\VB Photo Editor\Backup\VB Photo Editor.suo">
+</Event><Event ErrorLevel="0" Project="VB Photo Editor" Source="VB Photo Editor.vbproj" Description="Project file successfully backed up as C:\Users\Vijay\Downloads\Compressed\New folder\VB Photo Editor\Backup\VB Photo Editor.vbproj">
+</Event><Event ErrorLevel="0" Project="VB Photo Editor" Source="VB Photo Editor.vbproj.user" Description="Project user file successfully backed up as C:\Users\Vijay\Downloads\Compressed\New folder\VB Photo Editor\Backup\VB Photo Editor.vbproj.user">
+</Event><Event ErrorLevel="0" Project="VB Photo Editor" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Vijay\Downloads\Compressed\New folder\VB Photo Editor\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="VB Photo Editor" Source="FrmPhoto.vb" Description="File successfully backed up as C:\Users\Vijay\Downloads\Compressed\New folder\VB Photo Editor\Backup\FrmPhoto.vb">
+</Event><Event ErrorLevel="0" Project="VB Photo Editor" Source="MDI.vb" Description="File successfully backed up as C:\Users\Vijay\Downloads\Compressed\New folder\VB Photo Editor\Backup\MDI.vb">
+</Event><Event ErrorLevel="0" Project="VB Photo Editor" Source="FrmPhoto.resx" Description="File successfully backed up as C:\Users\Vijay\Downloads\Compressed\New folder\VB Photo Editor\Backup\FrmPhoto.resx">
+</Event><Event ErrorLevel="0" Project="VB Photo Editor" Source="MDI.resx" Description="File successfully backed up as C:\Users\Vijay\Downloads\Compressed\New folder\VB Photo Editor\Backup\MDI.resx">
+</Event><Event ErrorLevel="0" Project="VB Photo Editor" Source="VB Photo Editor.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VB Photo Editor" Source="VB Photo Editor.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="VB Photo Editor.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="VB Photo Editor.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VB Photo Editor" Source="VB Photo Editor.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
